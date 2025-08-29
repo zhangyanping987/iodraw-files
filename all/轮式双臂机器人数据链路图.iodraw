@@ -80,6 +80,7 @@
             <Array as="points">
               <mxPoint x="448" y="640" />
               <mxPoint x="280" y="640" />
+              <mxPoint x="280" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,10 +173,13 @@
           <mxGeometry x="407.5" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-13" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="660" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-12" target="iOlG00ojxHibvustuaYq-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iOlG00ojxHibvustuaYq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="iOlG00ojxHibvustuaYq-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="640" as="sourcePoint" />
+            <mxPoint x="555.7799999999997" y="695.96" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

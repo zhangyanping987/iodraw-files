@@ -81,27 +81,13 @@
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-17" value="USB HUB&lt;br style=&quot;font-size: 14px;&quot;&gt;(有源VL817)" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;horizontal=1;verticalAlign=middle;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="385" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1WOTOVgFr0zm84sdD8uQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-30" target="1WOTOVgFr0zm84sdD8uQ-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1WOTOVgFr0zm84sdD8uQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-30" target="1WOTOVgFr0zm84sdD8uQ-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="350" />
-              <mxPoint x="955" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1WOTOVgFr0zm84sdD8uQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-30" target="1WOTOVgFr0zm84sdD8uQ-39" edge="1">
+        <mxCell id="1WOTOVgFr0zm84sdD8uQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" target="1WOTOVgFr0zm84sdD8uQ-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="955" y="425" />
             </Array>
+            <mxPoint x="537.5" y="425" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1WOTOVgFr0zm84sdD8uQ-30" value="M.2 M Key to USB&lt;br style=&quot;font-size: 14px;&quot;&gt;（19/20pin USB + Type E口）&lt;br style=&quot;font-size: 14px;&quot;&gt;(ASM3142芯片)&lt;br style=&quot;font-size: 14px;&quot;&gt;（4pin外部供电）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="357.5" y="380" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-34" value="19/20pin to 2*USB-A" style="triangle;whiteSpace=wrap;html=1;rotation=90;horizontal=0;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="910" y="60" width="90" height="260" as="geometry" />

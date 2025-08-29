@@ -81,20 +81,6 @@
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-17" value="USB HUB&lt;br style=&quot;font-size: 14px;&quot;&gt;(有源VL817)" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;horizontal=1;verticalAlign=middle;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="385" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1WOTOVgFr0zm84sdD8uQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" target="1WOTOVgFr0zm84sdD8uQ-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="955" y="425" />
-            </Array>
-            <mxPoint x="537.5" y="425" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1WOTOVgFr0zm84sdD8uQ-34" value="19/20pin to 2*USB-A" style="triangle;whiteSpace=wrap;html=1;rotation=90;horizontal=0;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="910" y="60" width="90" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="1WOTOVgFr0zm84sdD8uQ-39" value="&amp;nbsp;Type-E to USB-A" style="triangle;whiteSpace=wrap;html=1;rotation=-90;horizontal=1;textDirection=vertical-lr;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="910" y="370" width="90" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-41" value="左手USB摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="310" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -108,6 +94,9 @@
           <mxGeometry x="870" y="650" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-68" target="1WOTOVgFr0zm84sdD8uQ-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-68" target="iOlG00ojxHibvustuaYq-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-68" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;JETSON ORIN NX Super&lt;br style=&quot;font-size: 14px;&quot;&gt;(算力板)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
@@ -194,6 +183,9 @@
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;移远EC200A&lt;br style=&quot;font-size: 14px;&quot;&gt;4G模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-37" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="875" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

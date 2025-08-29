@@ -188,15 +188,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="970" y="1100" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="940" />
-              <mxPoint x="970" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-21" value="USB HUB&lt;br&gt;(有源VL817)" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;horizontal=1;verticalAlign=middle;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="800" width="80" height="80" as="geometry" />
         </mxCell>

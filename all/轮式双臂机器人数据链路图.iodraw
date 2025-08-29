@@ -160,6 +160,9 @@
             <mxPoint x="555.7799999999997" y="695.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-21" value="USB HUB&lt;br style=&quot;font-size: 14px;&quot;&gt;(有源VL817)" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;horizontal=1;verticalAlign=middle;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="395" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

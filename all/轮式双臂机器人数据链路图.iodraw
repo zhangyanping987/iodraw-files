@@ -97,13 +97,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-68" target="iOlG00ojxHibvustuaYq-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1325" y="820" />
+              <mxPoint x="1160" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-68" target="iOlG00ojxHibvustuaYq-39">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1325" y="820" />
+              <mxPoint x="1270" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-68" target="iOlG00ojxHibvustuaYq-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1325" y="820" />
+              <mxPoint x="1390" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-68" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;JETSON ORIN NX Super&lt;br style=&quot;font-size: 14px;&quot;&gt;(算力板)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1220" y="625" width="210" height="140" as="geometry" />
@@ -194,7 +209,7 @@
           <mxGeometry x="1120" y="870" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-39" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="870" width="80" height="80" as="geometry" />
+          <mxGeometry x="1230" y="860" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-40" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="870" width="80" height="80" as="geometry" />

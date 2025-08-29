@@ -84,6 +84,11 @@
         <mxCell id="iOlG00ojxHibvustuaYq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-12" target="iOlG00ojxHibvustuaYq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-12" target="iOlG00ojxHibvustuaYq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-12" value="香橙派5pro&lt;br style=&quot;font-size: 14px;&quot;&gt;（数据采集板）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="355" y="515" width="190" height="100" as="geometry" />
         </mxCell>
@@ -164,13 +169,13 @@
           <mxGeometry x="200" y="525" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-7" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="660" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-12" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="414" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-13" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="680" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="655" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

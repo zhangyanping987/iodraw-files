@@ -70,11 +70,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1WOTOVgFr0zm84sdD8uQ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="565" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-12" target="iOlG00ojxHibvustuaYq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>

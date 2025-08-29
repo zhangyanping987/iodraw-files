@@ -77,7 +77,7 @@
           <mxGeometry x="380" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-17" value="USB HUB&lt;br style=&quot;font-size: 14px;&quot;&gt;(有源VL817)" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;horizontal=1;verticalAlign=middle;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="70" y="535" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="385" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-30" target="1WOTOVgFr0zm84sdD8uQ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-70" value="以太网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="895" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-1" target="1WOTOVgFr0zm84sdD8uQ-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-1" value="USB3.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="525" width="80" height="80" as="geometry" />

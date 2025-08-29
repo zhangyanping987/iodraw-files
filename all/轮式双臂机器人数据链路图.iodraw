@@ -288,8 +288,8 @@
         <mxCell id="iOlG00ojxHibvustuaYq-73" value="外部预留USB接口" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-76" value="" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="445" width="120" height="60" as="geometry" />
+        <mxCell id="iOlG00ojxHibvustuaYq-76" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;外部预留HDMI接口&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="465" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

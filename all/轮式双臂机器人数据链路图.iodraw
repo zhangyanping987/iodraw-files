@@ -146,19 +146,19 @@
         <mxCell id="iOlG00ojxHibvustuaYq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-7" target="1WOTOVgFr0zm84sdD8uQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-7" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="iOlG00ojxHibvustuaYq-7" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-12" target="1WOTOVgFr0zm84sdD8uQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-12" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="iOlG00ojxHibvustuaYq-12" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="407.5" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-13" target="iOlG00ojxHibvustuaYq-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-13" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="iOlG00ojxHibvustuaYq-13" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="iOlG00ojxHibvustuaYq-13">

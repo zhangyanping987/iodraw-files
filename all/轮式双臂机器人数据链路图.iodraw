@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-30" value="M.2 M Key to USB&lt;br style=&quot;font-size: 14px;&quot;&gt;（19/20pin USB + Type E口）&lt;br style=&quot;font-size: 14px;&quot;&gt;(ASM3142芯片)&lt;br style=&quot;font-size: 14px;&quot;&gt;（4pin外部供电）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="360" y="380" width="180" height="90" as="geometry" />
+          <mxGeometry x="357.5" y="380" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-34" target="1WOTOVgFr0zm84sdD8uQ-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -172,13 +172,10 @@
           <mxGeometry x="300" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-12" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="685" width="80" height="80" as="geometry" />
+          <mxGeometry x="414" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-13" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="660" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.413;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-12" target="iOlG00ojxHibvustuaYq-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-12" target="iOlG00ojxHibvustuaYq-13">
           <mxGeometry relative="1" as="geometry" />

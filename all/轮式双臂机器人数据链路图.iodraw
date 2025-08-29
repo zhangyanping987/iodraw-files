@@ -191,9 +191,6 @@
         <mxCell id="iOlG00ojxHibvustuaYq-21" value="USB HUB&lt;br&gt;(有源VL817)" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;horizontal=1;verticalAlign=middle;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="800" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-9" target="1WOTOVgFr0zm84sdD8uQ-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-28" target="1WOTOVgFr0zm84sdD8uQ-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">

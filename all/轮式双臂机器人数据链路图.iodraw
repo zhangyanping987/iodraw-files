@@ -163,14 +163,14 @@
         <mxCell id="iOlG00ojxHibvustuaYq-1" value="USB3.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="525" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-5" value="USB3.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="730" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-6" value="USB3.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="630" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-7" value="USB3.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="iOlG00ojxHibvustuaYq-7" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-12" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-13" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="680" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

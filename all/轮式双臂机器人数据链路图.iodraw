@@ -305,6 +305,9 @@
         <mxCell id="iOlG00ojxHibvustuaYq-73" value="外部预留USB接口" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-76" target="iOlG00ojxHibvustuaYq-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-76" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;外部预留HDMI接口&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1265" y="465" width="120" height="60" as="geometry" />
         </mxCell>
@@ -321,7 +324,7 @@
           <mxGeometry x="990" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-95" value="HDMI诱骗器" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1265" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

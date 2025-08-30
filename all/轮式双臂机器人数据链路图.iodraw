@@ -19,13 +19,13 @@
         <mxCell id="iOlG00ojxHibvustuaYq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-10" target="1WOTOVgFr0zm84sdD8uQ-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="320" />
+              <mxPoint x="-180" y="320" />
               <mxPoint x="240" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;手臂电机控制板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-240" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-12" target="1WOTOVgFr0zm84sdD8uQ-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;移远EC200A&lt;br style=&quot;font-size: 14px;&quot;&gt;4G模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-37" target="1WOTOVgFr0zm84sdD8uQ-6">
           <mxGeometry relative="1" as="geometry" />

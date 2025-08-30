@@ -226,8 +226,11 @@
         <mxCell id="iOlG00ojxHibvustuaYq-41" value="USB3.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#1ba1e2;strokeColor=#006EAF;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1470" y="870" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-51" target="iOlG00ojxHibvustuaYq-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-51" value="&lt;article style=&quot;font-size: 14px;&quot; data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ppKo-1754290906504&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;hJBa-1754290906503&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;远场环形六麦阵列&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:16}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve; line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;远场环形六麦阵列&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-52" value="&lt;article style=&quot;font-size: 14px;&quot; data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;pfM3-1754290906543&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;r1di-1754290906542&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;Unitree&amp;nbsp;4DLiDAR&amp;nbsp;L13D激光雷达&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:16}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve; line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Unitree 4DLiDAR L13D激光雷达&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1210" y="1290" width="120" height="60" as="geometry" />
@@ -242,14 +245,6 @@
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-53" value="外部预留USB接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-55" target="iOlG00ojxHibvustuaYq-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1270" y="1200" />
-              <mxPoint x="1030" y="1200" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-55" target="iOlG00ojxHibvustuaYq-52">
           <mxGeometry relative="1" as="geometry">
@@ -290,6 +285,9 @@
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-76" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;外部预留HDMI接口&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1265" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-78" value="" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

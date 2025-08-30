@@ -314,6 +314,9 @@
         <mxCell id="iOlG00ojxHibvustuaYq-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-53" target="iOlG00ojxHibvustuaYq-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-93" value="外部预留HDMI接口" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

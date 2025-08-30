@@ -72,10 +72,10 @@
           <mxGeometry x="200" y="385" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-41" value="左手USB摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="310" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-42" value="右手USB摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="510" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="367.5" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" source="1WOTOVgFr0zm84sdD8uQ-48" target="1WOTOVgFr0zm84sdD8uQ-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -167,22 +167,6 @@
             <mxPoint x="555.7799999999997" y="695.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-21" target="1WOTOVgFr0zm84sdD8uQ-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="940" />
-              <mxPoint x="370" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-21" target="1WOTOVgFr0zm84sdD8uQ-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="940" />
-              <mxPoint x="570" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-21" target="1WOTOVgFr0zm84sdD8uQ-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -239,7 +223,7 @@
           <mxGeometry x="1210" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-53" value="外部预留USB接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="564" y="35" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-55" target="iOlG00ojxHibvustuaYq-52">
           <mxGeometry relative="1" as="geometry">

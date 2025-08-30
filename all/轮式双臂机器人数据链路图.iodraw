@@ -24,7 +24,7 @@
           <mxGeometry x="490" y="-220" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-70" value="以太网&lt;br&gt;（外部网口）" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="515" y="-40" width="120" height="80" as="geometry" />
+          <mxGeometry x="515" y="-40" width="375" height="210" as="geometry" />
         </mxCell>
         <mxCell id="1gpI-wvuvb3WcOFeY3D0-1" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="906" y="-540" width="670" height="1190" as="geometry" />
@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1gpI-wvuvb3WcOFeY3D0-9" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-960" y="-800" width="1270" height="1140" as="geometry" />
+          <mxGeometry x="-1130" y="-820" width="1270" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-5" value="&lt;article style=&quot;font-size: 14px;&quot; data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;sI1d-1754290906517&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;nlHR-1754290906516&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;IMU惯导模块&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:16}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve; line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;IMU惯导模块&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-9" vertex="1">
           <mxGeometry x="547.5" y="880" width="120" height="60" as="geometry" />

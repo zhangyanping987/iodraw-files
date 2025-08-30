@@ -175,6 +175,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="iOlG00ojxHibvustuaYq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="1110" as="sourcePoint" />
+            <mxPoint x="640" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-21" value="USB HUB&lt;br&gt;(有源VL817)" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;horizontal=1;verticalAlign=middle;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="800" width="80" height="80" as="geometry" />
         </mxCell>
@@ -223,7 +229,7 @@
           <mxGeometry x="1210" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-53" value="外部预留USB接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="545" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOlG00ojxHibvustuaYq-55" target="iOlG00ojxHibvustuaYq-52">
           <mxGeometry relative="1" as="geometry">

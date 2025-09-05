@@ -204,11 +204,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0wufIcnWG2qLdVkmxDzv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1gpI-wvuvb3WcOFeY3D0-11" source="1WOTOVgFr0zm84sdD8uQ-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-12" value="香橙派5pro&lt;br style=&quot;font-size: 14px;&quot;&gt;（数据采集板）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1">
           <mxGeometry x="510" y="575" width="195" height="100" as="geometry" />
         </mxCell>
@@ -337,6 +332,9 @@
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-100" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;扬声器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1">
           <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wufIcnWG2qLdVkmxDzv-7" value="USB2.0" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=1;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;container=0;" vertex="1" parent="1gpI-wvuvb3WcOFeY3D0-11">
+          <mxGeometry x="90" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0wufIcnWG2qLdVkmxDzv-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2195" y="-1672" width="50" height="30" as="geometry" />

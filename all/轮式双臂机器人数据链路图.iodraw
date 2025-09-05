@@ -231,8 +231,7 @@
         <mxCell id="iOlG00ojxHibvustuaYq-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" source="1WOTOVgFr0zm84sdD8uQ-17" target="1WOTOVgFr0zm84sdD8uQ-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="320" />
-              <mxPoint x="398" y="320" />
+              <mxPoint x="400" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -251,7 +250,7 @@
           <mxGeometry x="1030" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-42" value="右手USB摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1">
-          <mxGeometry x="352.5" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1gpI-wvuvb3WcOFeY3D0-11" source="iOlG00ojxHibvustuaYq-1" target="1WOTOVgFr0zm84sdD8uQ-17" edge="1">
           <mxGeometry relative="1" as="geometry" />

@@ -19,7 +19,7 @@
           <mxGeometry x="387.5" y="-710" width="375" height="210" as="geometry" />
         </mxCell>
         <mxCell id="1gpI-wvuvb3WcOFeY3D0-1" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="930" y="-510" width="670" height="1190" as="geometry" />
+          <mxGeometry x="906" y="-540" width="670" height="1190" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-6" value="&lt;article style=&quot;font-size: 14px;&quot; data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;5xfv-1754290906530&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;lSOs-1754290906529&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;奥比中光&amp;nbsp;Gemini&amp;nbsp;Max双目深度相机&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:16}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve; line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;奥比中光 Gemini Max双目深度相机&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1gpI-wvuvb3WcOFeY3D0-1" vertex="1">
           <mxGeometry x="180" y="770" width="120" height="60" as="geometry" />
@@ -94,14 +94,6 @@
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-52" value="&lt;article style=&quot;font-size: 14px;&quot; data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;pfM3-1754290906543&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;r1di-1754290906542&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;Unitree&amp;nbsp;4DLiDAR&amp;nbsp;L13D激光雷达&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:16}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve; line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Unitree 4DLiDAR L13D激光雷达&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1gpI-wvuvb3WcOFeY3D0-1" vertex="1">
           <mxGeometry x="310" y="970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iOlG00ojxHibvustuaYq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1gpI-wvuvb3WcOFeY3D0-1" source="iOlG00ojxHibvustuaYq-55" target="iOlG00ojxHibvustuaYq-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="920" />
-              <mxPoint x="370" y="920" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1gpI-wvuvb3WcOFeY3D0-1" source="iOlG00ojxHibvustuaYq-55" target="iOlG00ojxHibvustuaYq-78" edge="1">
           <mxGeometry relative="1" as="geometry">

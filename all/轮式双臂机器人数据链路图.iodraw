@@ -172,7 +172,7 @@
           <mxGeometry x="770" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;手臂电机控制板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1">
-          <mxGeometry x="125" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1gpI-wvuvb3WcOFeY3D0-11" source="1WOTOVgFr0zm84sdD8uQ-12" target="iOlG00ojxHibvustuaYq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="320" />
-              <mxPoint x="630" y="320" />
+              <mxPoint x="628" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -343,7 +343,7 @@
           <mxGeometry x="170" y="1030" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-100" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;扬声器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1">
-          <mxGeometry x="585" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="567.5" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0wufIcnWG2qLdVkmxDzv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1gpI-wvuvb3WcOFeY3D0-11" source="0wufIcnWG2qLdVkmxDzv-7" target="iOlG00ojxHibvustuaYq-28">
           <mxGeometry relative="1" as="geometry" />

@@ -204,6 +204,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0wufIcnWG2qLdVkmxDzv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1gpI-wvuvb3WcOFeY3D0-11" source="1WOTOVgFr0zm84sdD8uQ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-12" value="香橙派5pro&lt;br style=&quot;font-size: 14px;&quot;&gt;（数据采集板）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1">
           <mxGeometry x="510" y="575" width="195" height="100" as="geometry" />
         </mxCell>
@@ -301,7 +306,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;移远EC200A&lt;br style=&quot;font-size: 14px;&quot;&gt;4G模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1">
-          <mxGeometry x="50" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOlG00ojxHibvustuaYq-53" value="外部预留USB接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1">
           <mxGeometry x="500" y="1070" width="120" height="60" as="geometry" />

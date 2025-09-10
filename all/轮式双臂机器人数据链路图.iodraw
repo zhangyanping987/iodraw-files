@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Lk-6I8wy10CHnrVjGqjg">
-    <mxGraphModel dx="7580" dy="5755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6753" dy="5755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,13 +13,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-48" value="5口千兆交换机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="400" y="-280" width="350" height="210" as="geometry" />
+          <mxGeometry x="740" y="-980" width="350" height="210" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-70" value="以太网&lt;br&gt;（外部网口）" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="387.5" y="-710" width="375" height="210" as="geometry" />
+          <mxGeometry x="727.5" y="-1410" width="375" height="210" as="geometry" />
         </mxCell>
         <mxCell id="1gpI-wvuvb3WcOFeY3D0-1" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="930" y="-780" width="834" height="1280" as="geometry" />
+          <mxGeometry x="1270" y="-1480" width="834" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="1WOTOVgFr0zm84sdD8uQ-6" value="&lt;article style=&quot;font-size: 14px;&quot; data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;5xfv-1754290906530&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;lSOs-1754290906529&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;奥比中光&amp;nbsp;Gemini&amp;nbsp;Max双目深度相机&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:16}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve; line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;奥比中光 Gemini Max双目深度相机&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;spacingTop=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=1" parent="1gpI-wvuvb3WcOFeY3D0-1" vertex="1">
           <mxGeometry x="224.05970149253733" y="828.2352941176471" width="149.37313432835822" height="64.53781512605042" as="geometry" />
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1gpI-wvuvb3WcOFeY3D0-11" value="" style="group;perimeterSpacing=0;strokeWidth=1;strokeColor=none;fillColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-990" y="-800" width="1300" height="1170" as="geometry" />
+          <mxGeometry x="-650" y="-1500" width="1300" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="1gpI-wvuvb3WcOFeY3D0-9" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;container=0;" parent="1gpI-wvuvb3WcOFeY3D0-11" vertex="1" connectable="0">
           <mxGeometry x="-100" width="1380" height="1170" as="geometry" />

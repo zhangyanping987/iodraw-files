@@ -19,7 +19,10 @@
           <mxGeometry x="90" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxZC45FZpGSdtupHPQgo-2" value="12个电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rxZC45FZpGSdtupHPQgo-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

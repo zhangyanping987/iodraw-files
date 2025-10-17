@@ -7,8 +7,8 @@
         <mxCell id="rxZC45FZpGSdtupHPQgo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rxZC45FZpGSdtupHPQgo-0" target="rxZC45FZpGSdtupHPQgo-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rxZC45FZpGSdtupHPQgo-4" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-weight: 600; overflow-anchor: auto; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; text-wrap: wrap; background-color: rgb(252, 252, 252);&quot;&gt;Ethernet&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rxZC45FZpGSdtupHPQgo-3">
-          <mxGeometry x="-0.0933" y="-1" relative="1" as="geometry">
+        <mxCell id="rxZC45FZpGSdtupHPQgo-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rxZC45FZpGSdtupHPQgo-3">
+          <mxGeometry x="-0.1273" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

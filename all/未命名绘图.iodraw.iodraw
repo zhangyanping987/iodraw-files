@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="rxZC45FZpGSdtupHPQgo-9" value="Ethernet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rxZC45FZpGSdtupHPQgo-3">
           <mxGeometry x="-0.1273" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rxZC45FZpGSdtupHPQgo-0" value="PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -31,6 +31,11 @@
         </mxCell>
         <mxCell id="rxZC45FZpGSdtupHPQgo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rxZC45FZpGSdtupHPQgo-5" target="rxZC45FZpGSdtupHPQgo-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rxZC45FZpGSdtupHPQgo-10" value="can2.0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rxZC45FZpGSdtupHPQgo-7">
+          <mxGeometry x="-0.0143" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rxZC45FZpGSdtupHPQgo-5" value="USB-CAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />

@@ -29,7 +29,7 @@
         <mxCell id="rxZC45FZpGSdtupHPQgo-1" value="香橙派5pro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rxZC45FZpGSdtupHPQgo-2" value="12个电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rxZC45FZpGSdtupHPQgo-2" value="12个电机（id0-11）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxZC45FZpGSdtupHPQgo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rxZC45FZpGSdtupHPQgo-5" target="rxZC45FZpGSdtupHPQgo-2">

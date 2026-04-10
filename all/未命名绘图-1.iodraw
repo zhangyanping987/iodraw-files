@@ -14,16 +14,16 @@
           <mxGeometry x="-40" y="160" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="DdBMsBbho7gD3m8zMqiB-4" value="205&lt;br&gt;&lt;br&gt;具身智能产品演示教室" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="160" width="180" height="190" as="geometry" />
+          <mxGeometry x="170" y="160" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="DdBMsBbho7gD3m8zMqiB-5" value="204&lt;br&gt;&lt;br&gt;具身智能应用基地" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="DdBMsBbho7gD3m8zMqiB-6" value="203&lt;br&gt;&lt;br&gt;具身智能产品展示间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="180" height="190" as="geometry" />
+          <mxGeometry x="500" y="160" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="DdBMsBbho7gD3m8zMqiB-7" value="202&lt;br&gt;&lt;br&gt;复杂道路调试间&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="160" width="180" height="190" as="geometry" />
+          <mxGeometry x="710" y="160" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="DdBMsBbho7gD3m8zMqiB-12" value="212&lt;br&gt;&lt;br&gt;具身智能应用基地" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-40" y="410" width="180" height="190" as="geometry" />
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="DdBMsBbho7gD3m8zMqiB-16" value="208&lt;br&gt;&lt;br&gt;产教融合部" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="680" y="410" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DdBMsBbho7gD3m8zMqiB-18" value="楼&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;梯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DdBMsBbho7gD3m8zMqiB-19" value="楼&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;梯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DdBMsBbho7gD3m8zMqiB-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-164" y="358" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
